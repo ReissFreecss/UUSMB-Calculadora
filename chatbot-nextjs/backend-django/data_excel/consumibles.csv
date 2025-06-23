@@ -1,0 +1,71 @@
+nombre,tipo,presentacion,unidad_medida,rxn,precio,precio_unitario,plataforma
+Punta 1000 uL (10 racks),Plasticos,"1,000.00",,,"1,346.76",1.35,3
+Punta 200 uL,Plasticos,"1,000.00",,,364.07,0.36,3
+Punta 200 uL con Filtro,Plasticos,960.00,,,"1,998.21",2.08,3
+Punta 20 uL con Filtro,Plasticos,,,,,,3
+Punta 10 uL,Plasticos,"1,000.00",,,374.10,0.37,3
+Punta 10 uL con Filtro,Plasticos,960.00,,,"2,009.00",2.09,3
+Tubo de 1.5 mL,Plasticos,500.00,,,345.68,0.69,3
+Tubo Eppendorf LoBind de 1.5 mL,Plasticos,250.00,,,481.40,1.93,3
+Tubo Falcon 15 ml,Plasticos,500.00,,,"3,712.00",7.42,3
+Tubo para PCR,Plasticos,"1,000.00",,,979.72,0.98,3
+Tubo para Qubit 0.5 mL,Plasticos,"1,000.00",,,784.16,0.78,3
+Tubos PCR tira 8 (120 Tiras),Plasticos,120.00,,,"3,697.90",30.82,3
+Reservorio,Plasticos,50.00,,,"3,120.40",62.41,3
+Tubo 0.6 mL,Plasticos,"1,000.00",,,630.78,0.63,3
+Tubo Falcon 50 uL,Plasticos,500.00,,,"3,016.00",6.03,3
+Tubo Falcon 15 mL,Plasticos,500.00,,,"2,552.00",5.10,3
+Tubo de 2 mL,Plasticos,500.00,,,365.19,0.73,3
+Tira para PCR 8 (Blancos) (125 tiras),Plasticos,"1,000.00",,,"10,497.10",10.50,3
+Tubos con filtro,Plasticos,100.00,,,"5,454.55",54.55,1
+Agarosa 125 G (1.5%; 83 prep 100ml=3 geles de 8 pozos; gel),Reactivos Generales Solido,125.00,g,83,"4,869.27",58.43,3
+Gel de agarosa al 1.5% ,Reactivos Generales Solido,,g,24,59.69,2.49,3
+Tris 5 Kg ,Reactivos Generales Solido,"5,000.00",g,,"11,245.33",2.25,3
+EDTA 500 G (preparaciones),Reactivos Generales Solido,500.00,g,,"1,285.28",2.57,3
+Chip RNA Nano 6000 Agilet(Chip),Reactivos Generales Solido,25.00,g,12,"30,135.64","1,205.43",2
+Hoja de bistury,Reactivos Generales Solido,100.00,g,,500.00,5.00,3
+"BIOANALYZER RNA NANO 6000 Agilet(25 Chips, 12 pozos c/u)",Reactivos Generales Solido,25.00,g,300,"35,206.00",117.35,1
+"BIOANALYZER DNA 1000 Agilet(25 Chips, 12 pozos c/u)",Reactivos Generales Solido,25.00,g,300,"31,625.08",105.42,1
+Persulfato de amonio(100 g),Reactivos Generales Solido,100.00,g,,"1,482.48",14.82,1
+Gel de acrilamida 6%,Reactivos Generales Solido,,g,4,49.94,12.49,1
+"Bioanalyzer High Sensitivity DNA Analysis(10 Chips, 11 pozos c/u)",Reactivos Generales Solido,10.00,g,110,"21,086.48",191.70,1
+Qubit™ 1X dsDNA HS Assay Kit(RXN),Reactivos Generales Liquido,,uL,500,"10,874.20",21.75,3
+EtOH grado reactivo 2.5L (uL),Reactivos Generales Liquido,"2,500,000.00",uL,,"1,193.64",0.00,3
+AMPure XP(ul y RXN(50uL)),Reactivos Generales Liquido,"450,000.00",uL,9000,"160,253.94",17.81,3
+Phusion(RXN),Reactivos Generales Liquido,,uL,500,"28,740.45",57.48,3
+Buffer TAE 50L,Reactivos Generales Liquido,"50,000.00",uL,,627.18,0.01,3
+Ladder 1Kb PLUS listo para usarse 5X50 ug,Reactivos Generales Liquido,"2,500.00",uL,1667,"7,361.76",4.42,3
+Ladder 100 Pb,Reactivos Generales Liquido,,uL,,,,3
+Elution Buffer ,Reactivos Generales Liquido,"250,000.00",uL,12500,"1,336.32",0.11,3
+Loading buffer conc 6X; 5x 1ml(cargas) ,Reactivos Generales Liquido,,uL,3333,"1,485.77",0.45,3
+Q5(RXN),Reactivos Generales Liquido,,uL,500,"27,830.00",55.66,3
+Oligos especificos para amplicones (FW/RV; RXN),Reactivos Generales Liquido,,uL,5000,"1,320.00",0.26,3
+Super Scrip III 50 ul(RXN),Reactivos Generales Liquido,,uL,400,"40,985.09",102.46,3
+Kit extracción ZYMOBiomics DNA,Reactivos Generales Liquido,,uL,50,"8,935.54",178.71,3
+Exonuclease 1 RXN,Reactivos Generales Liquido,,uL,150,"2,474.04",16.49,3
+dNTP's 1 RXN,Reactivos Generales Liquido,,uL,1000,"1,790.59",1.79,3
+BRB PRIMER (OLIGO dT) RXN,Reactivos Generales Liquido,,uL,310,"4,197.37",13.54,3
+P5_ BRB PRIMER RXN,Reactivos Generales Liquido,,uL,1000,"2,708.33",2.71,3
+READ ONE PRIMER RXN,Reactivos Generales Liquido,,uL,20,269.36,13.47,3
+RNAsa Out,Reactivos Generales Liquido,,uL,,,62.50,3
+Superase In INHIBITOR RXN,Reactivos Generales Liquido,,uL,20,"5,030.66",251.53,3
+Ácido acetico glacial 2.5 L (preparaciones),Reactivos Generales Liquido,"2,500.00",uL,,"1,508.00",0.60,3
+Oligos especificos para Covid,Reactivos Generales Liquido,,uL,3840,"63,528.00",16.54,3
+NaOH,Reactivos Generales Liquido,,uL,,,,3
+NaOCl,Reactivos Generales Liquido,,uL,,,,3
+Oligo qPCR,Reactivos Generales Liquido,,uL,,,,3
+RSB,Reactivos Generales Liquido,,uL,,,,3
+Kit Zymoclean Gel DNA Recovery Kit,Reactivos Generales Liquido,,uL,$50.00,"2,707.45",54.15,3
+Oligos especificos para qPCR,Reactivos Generales Liquido,,uL,1000,528.00,0.53,3
+Estandar para qPCR,Reactivos Generales Liquido,,uL,1000,583.77,0.58,3
+Luna Script,Reactivos Generales Liquido,,uL,,,,1
+Quick-RNA™ Viral Kit,Reactivos Generales Liquido,,uL,200,"14,312.86",71.56,1
+Quick-DNA/RNA™ Miniprep Kit,Reactivos Generales Liquido,,uL,200,"19,142.70",95.71,1
+Quick-DNA™ Miniprep Plus Kit,Reactivos Generales Liquido,,uL,200,"15,851.42",79.26,1
+QIASeq- Stranded mRNA Library,Reactivos Generales Liquido,,uL,96,"87,604.13",912.54,1
+Acrilamida 30% (500 mL),Reactivos Generales Liquido,,uL,500,"1,731.53",3.46,1
+NEXTflex Small RNA-Seq Kit v3,Reactivos Generales Liquido,,uL,48,"77,615.60","1,616.99",1
+"N,N,N',N'-Tetrametiletilendiamina (Temed;25 mL)",Reactivos Generales Liquido,,uL,25000,"1,245.84",0.05,1
+Quick-RNA™ Miniprep Kit,Reactivos Generales Liquido,,uL,200,"21,567.04",107.84,1
+TruSeq Small RNA Library Prep kit,Reactivos Generales Liquido,,uL,24,"51,351.96","2,139.66",1
+Butanol,Reactivos Generales Liquido,"500,000.00",uL,,"2,043.00",,1

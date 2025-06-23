@@ -1,0 +1,72 @@
+nombre,presentacion,precio_presentacion_iva,precio_unitario,plataforma
+1)NEBNext FFPE DNA Repair Buffer (0.624 ml) y NEBNext FFPE DNA Repair Mix (0.192 ml),96.0,20020.99,208.55,2
+2)NEBNext FFPE DNA Repair Buffer (0.624 ml) y NEBNext FFPE DNA Repair Mix (0.192 ml),96.0,20020.99,208.55,2
+3)NEBNext FFPE DNA Repair Buffer (0.624 ml) y NEBNext FFPE DNA Repair Mix (0.192 ml),384.0,20020.99,52.14,2
+1)Ultra II End-prep reaction buffer(0.672 ml)Ultra II End-prep enzyme mix (0.288 ml),96.0,27681.2,288.35,2
+2)Ultra II End-prep reaction buffer(0.672 ml)Ultra II End-prep enzyme mix (0.288 ml),96.0,27681.2,288.35,2
+3)Ultra II End-prep reaction buffer(0.672 ml)Ultra II End-prep enzyme mix (0.288 ml),384.0,27681.2,72.09,2
+Blunt/TA Ligase Master Mix (1.25 ml),1250.0,15160.18,12.13,2
+1)NEBNext Quick Ligation Reaction Buffer (1 ml) y NEBNext Quick T4 DNA Ligase (0.5 ml),50.0,48438.62,968.77,2
+2)NEBNext Quick Ligation Reaction Buffer (1 ml) y NEBNext Quick T4 DNA Ligase (0.5 ml),50.0,48438.62,968.77,2
+3)NEBNext Quick Ligation Reaction Buffer (1 ml) y NEBNext Quick T4 DNA Ligase (0.5 ml),100.0,48438.62,484.39,2
+Flow Cell Priming Kit XL (EXP-FLP004-XL),48.0,3780.0,78.75,2
+Native Barcoding Kit 24 V14 (SQK-NBD114.24),8.0,14679.0,1834.88,2
+Ligation Sequencing Kit XL V14 (SQK-LSK114-XL),48.0,84000.0,1750.0,2
+PCR Barcoding Expansion Pack 1-96     (EXP-PBC096),96.0,35700.0,371.88,2
+Flow Cell R10.4.1 (FLO-MIN114)GB,10.0,18900.0,1890.0,2
+Flow Cell Wash Kit XL (EXP-WSH004-XL),48.0,9072.0,189.0,2
+Direct RNA Sequencing Kit (SQK-RNA002)+ Flowcell Primming Kit),6.0,12579.0,2096.5,2
+Ligation Sequencing Kit V14 (SQK-LSK114),6.0,12579.0,2096.5,2
+Short Fragment Eliminator Expansion (EXP-SFE001),30.0,2079.0,69.3,2
+PCR-cDNA Barcoding Kit SQK-PCB111.24,6.0,15750.0,2625.0,2
+Native Barcoding Kit 96 V14 SQK-NBD114.96,16.0,16779.0,1048.69,2
+Control Expansion Kit EXP-CTL001,24.0,1260.0,52.5,2
+Flow Cell Wash Kit EXP-WSH004,6.0,2079.0,346.5,2
+Bovine Serum Albumin(BSA)50mg/ml(ul),0.0,0.0,0.0,2
+Native Barcoding Auxiliary Kit V14 (EXP-NBA114),12.0,6048.0,504.0,2
+Native Barcoding Auxiliary Kit V14,0.0,0.0,0.0,2
+KIT ILLUMINA DNAprep 96 RXN,192.0,74209.82,386.51,1
+BIOANALYZER DNA 1000,300.0,31625.08,105.42,1
+BIOANALYZER RNA NANO 6000,300.0,35206.0,117.35,1
+SYBERGREEN(25 mL; 5ul por RXN),25000.0,21850.92,4.37,1
+KIT Illumina mRNA stranded prep,96.0,86469.96,900.73,1
+"Nextera XT Index Kit v2 Set A (96 indexes, 384 samples)",768.0,19983.24,26.02,1
+tags set B illumina,768.0,19983.24,26.02,1
+tags set C illumina,768.0,19983.24,26.02,1
+tags set D illumina,768.0,19983.24,26.02,1
+DNA clean & concentrator_5 Kit,50.0,2707.45,54.15,1
+NEBNext Second Strand Synthesis Kit(ultra II directional RNA second strand kit),192.0,45991.26,239.54,1
+"IDT® for Illumina® DNA/RNA UD Indexes Set A, Tagmentation (96 Indexes, 96 Samples)",96.0,15826.94,164.86,1
+"IDT® for Illumina® DNA/RNA UD Indexes Set B, Tagmentation (96 Indexes, 96 Samples)",96.0,15826.94,164.86,1
+"IDT® for Illumina® DNA/RNA UD Indexes Set C, Tagmentation (96 Indexes, 96 Samples)",96.0,15826.94,164.86,1
+"IDT® for Illumina® DNA/RNA UD Indexes Set D, Tagmentation (96 Indexes, 96 Samples)",96.0,15826.94,164.86,1
+Illumina® COVIDSeq™ Test (3072 Samples),3072.0,1174541.76,382.34,1
+IDT® for Illumina PCR Indexes Sets 1-4 (válido solo para Covidseq),384.0,42162.53,109.8,1
+"Illumina® DNA PCR-Free Prep, Tagmentation (24 Samples)",24.0,16763.58,698.48,1
+"Illumina® DNA Prep, (M) Tagmentation (24 Samples)",24.0,19385.69,807.74,1
+"Nextera™ DNA CD Indexes (24 Indexes, 24 Samples)",24.0,2315.91,96.5,1
+"Illumina® Stranded Total RNA Prep, Ligation with Ribo-Zero Plus (96 Samples)",96.0,164946.43,1718.19,1
+Nextera XT DNA Library Preparation Kit (96 samples),96.0,64152.06,668.25,1
+TruSeq DNA PCR-Free High Throughput Library Prep Kit (96 samples),96.0,53039.76,552.5,1
+"IDT for Illumina – TruSeq RNA UD Indexes (96 Indexes, 96 Samples)",96.0,12793.14,133.26,1
+TruSeq Stranded mRNA Library Prep (96 Samples),96.0,86469.96,900.73,1
+"IDT® for Illumina Nextera DNA Unique Dual Indexes Sets A-D (384 Indexes, 384 Samples)",384.0,81849.6,213.15,1
+NextSeq 500/550 High Output Kit v2.5 (75 Cycles),1.0,42950.33,42950.33,1
+NextSeq 500/550 High Output Kit v2.5 (150 Cycles),1.0,82268.59,82268.59,1
+NextSeq 500/550 Mid Output Kit v2.5 (150 Cycles),1.0,31368.13,31368.13,1
+NextSeq 500/550 High Output Kit v2.5 (300 Cycles),1.0,131873.59,131873.59,1
+MiSeq Reagent Nano Kit v2 (500-cycles),1.0,10159.83,10159.83,1
+MiSeq Reagent Kit v3 (600-cycles),1.0,44398.05,44398.05,1
+iSeq 100 i1 Reagent v2 (300-cycle),8.0,75805.88,9475.74,1
+Nextera XT DNA Library Preparation Kit (96 samples),192.0,64152.06,334.13,1
+NextSeq 1000/2000 P1 (600 Cycles),1.0,53226.6,53226.6,1
+"Illumina Stranded Total RNA Prep, Ligation with Ribo-Zero Plus, Ribo-Zero Plus Microbiome",96.0,152313.65,1586.6,1
+"IDT for Illumina – TruSeq RNA UD Indexes v2(96 Indexes, 96 Samples)",96.0,11440.22,119.17,1
+MiSeq Reagent Kit v3 (500-cycles),1.0,34111.31,34111.31,1
+NextSeq 500/550 Mid Output Kit v2.5 (300 Cycles),1.0,50519.23,50519.23,1
+NextSeq 500/550 High Output Kit v2.5 (300 Cycles),1.0,131873.59,131873.59,1
+Psomagen_NovaSeq_line,1.0,48825.0,48825.0,1
+TruSeq DNA PCR-Free High Throughput Library Prep Kit (96 Samples),96.0,53039.76,552.5,1
+"TruSeq DNA CD Indexes (96 Indexes, 96 Samples)",96.0,10197.1,106.22,1
+TrueSeq Small RNA,24.0,52604.45,2191.85,1
+NextSeq 2000 P3 Reagents (300 Cycles),96.0,149814.0,1560.56,1
